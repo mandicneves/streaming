@@ -1,1 +1,0 @@
-# Segunda versão do programa de streaming
